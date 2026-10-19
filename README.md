@@ -1,1 +1,0 @@
-# India-Economic-Pulse
