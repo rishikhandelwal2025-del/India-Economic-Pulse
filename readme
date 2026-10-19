@@ -1,0 +1,86 @@
+# 🇮🇳 India Economic Pulse — Power BI Dashboard
+
+## 📊 Project Overview
+
+**India Economic Pulse** is an interactive Power BI dashboard designed to analyze India's economic indicators and visualize trends over time. The project transforms economic data into meaningful visual insights to help users understand changes in economic performance.
+
+## 🎯 Project Objectives
+
+- Analyze India's economic indicators and trends.
+- Explore the relationship between GDP growth and unemployment.
+- Track economic performance across different years.
+- Present key metrics using interactive visualizations.
+- Support data-driven economic analysis.
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI** — Dashboard development and visualization
+- **Power Query** — Data cleaning and transformation
+- **DAX** — Measures and calculations, where applicable
+- **Microsoft Excel / CSV** — Data preparation and storage, where applicable
+
+## 📈 Dashboard Features
+
+- KPI cards highlighting important economic indicators.
+- Time-series charts for analyzing economic trends.
+- GDP growth versus unemployment comparison.
+- Interactive year slicer for exploring selected periods.
+- Data visualization designed for clear and accessible analysis.
+
+## 🔍 Key Analysis Areas
+
+1. **Economic Trends:** Explore how selected economic indicators change over time.
+2. **GDP Growth:** Examine changes in economic growth across years.
+3. **Unemployment Analysis:** Understand unemployment trends in the available dataset.
+4. **Economic Relationships:** Compare GDP growth and unemployment to identify potential patterns.
+
+## 🧹 Data Preparation
+
+The project uses Power BI to prepare and visualize economic data. Depending on the source dataset, the preparation process may include:
+
+- Checking missing values and duplicates.
+- Formatting year and numerical columns.
+- Ensuring consistent data types.
+- Creating calculated measures for analysis.
+
+## 🖼️ Dashboard Preview
+
+
+
+
+## 📂 Repository Structure
+
+```text
+India-Economic-Pulse/
+│
+├── India_Economic_Pulse.pbix
+├── README.md
+└── images/
+    └── dashboard.png
+```
+
+## 💡 Skills Demonstrated
+
+- Data cleaning and transformation
+- Power BI dashboard development
+- Data visualization
+- Economic trend analysis
+- KPI reporting
+- Analytical thinking and data interpretation
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open `India_Economic_Pulse.pbix` using Microsoft Power BI Desktop.
+3. Refresh the data if the source files and connections are available.
+4. Explore the dashboard visuals and interactive filters.
+
+## 👨‍💻 Author
+
+**Rishi Khandelwal**
+
+GitHub: [rishikhandelwal2025-del](https://github.com/rishikhandelwal2025-del)
+
+---
+
+*This project was developed for learning, portfolio building, and demonstrating practical data analytics and Power BI skills.*
